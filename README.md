@@ -1,4 +1,4 @@
-Blender Island Taiwan
+Island Taiwan: A clip made by Blender
 
 Demo:
 
